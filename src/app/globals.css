@@ -25,3 +25,8 @@ body {
     text-wrap: balance;
   }
 }
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
